@@ -17,7 +17,7 @@
 
 // Draw black box
 (DRAW_SETUP)
-    @18048
+    @19488.   //16384 + 32 * 97
     D=A
     @address
     M=D
