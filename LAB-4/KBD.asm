@@ -1,8 +1,0 @@
-@KBD
-D=M
-@SCREEN
-M=D
-(LOOP)
-@LOOP
-0;JMP
-
