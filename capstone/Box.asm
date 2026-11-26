@@ -15,7 +15,7 @@
     @color
     M=-1            // all 16 bits = 1 = black
 (DRAW)
-    @17120          // 16384 + 32*K
+    @19488         // 16384 + 32*K
     D=A
     @ptr
     M=D             // ptr = first word of current row
